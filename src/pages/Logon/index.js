@@ -16,7 +16,7 @@ function Logon() {
                     <h1>Faça seu Logon</h1>
                     <input placeholder="Sua ID"></input>
                     <button className="button" type="submit">Entrar</button>
-                    <Link to="/register">
+                    <Link className="back-link" to="/register">
                         <FiLogIn size={16} color="#E02041"></FiLogIn>
                         Não tenho cadastro
                     </Link>
