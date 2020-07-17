@@ -4,8 +4,6 @@ import { FiArrowLeft } from 'react-icons/fi';
 
 import './styles.css';
 
-//import api from '../../services/api';
-
 import logoImg from '../../assets/logo.svg';
 import api from '../../services/api';
 
